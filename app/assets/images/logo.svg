@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="544px" height="159px" viewBox="0 0 544 159" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>t</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
-        <g id="t" transform="translate(-252.000000, -142.000000)" fill="#3A3A3A">
-            <text id="Emmerlyn" font-family="ManlySignature, Manly Signature" font-size="200" letter-spacing="0.4">
+<svg width="552px" height="159px" viewBox="0 0 552 159" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="t" transform="translate(-252.000000, -142.000000)" fill-rule="nonzero">
+            <text id="Emmerlyn" fill="#D51DD0" font-family="ManlySignature, Manly Signature" font-size="200" font-weight="normal" letter-spacing="0.4">
                 <tspan x="251" y="293">Emmerlyn</tspan>
                 <tspan x="689.2" y="293" font-family="LEMONMILK-Regular, LEMON MILK" font-size="72"> </tspan>
             </text>
-            <text id=".com" font-family="LEMONMILK-Regular, LEMON MILK" font-size="39">
+            <text id=".com" fill="#E7E7E7" font-family="LEMONMILK-Bold, LEMON MILK" font-size="39" font-weight="bold">
                 <tspan x="688" y="250">.com</tspan>
             </text>
         </g>
