@@ -1,0 +1,11 @@
+// Configure your import map in config/importmap.rb. Read more: https://github.com/rails/importmap-rails
+import "@hotwired/turbo-rails"
+import "controllers"
+import "/jquery.min"
+import "jquery.poptrox.min"
+import "jquery.scrolly.min"
+import "jquery.scollex.min"
+import "browser.min"
+import "breakpoints.min"
+import "util"
+import "main"
