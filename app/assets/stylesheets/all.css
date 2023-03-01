@@ -197,17 +197,20 @@ p {
     font-size: 8.2rem;
     line-height: 1.12;
     font-weight: bold;
-    color: #e3dfed; }
+    color: #e3dfed;
+    text-align: left;
+  }
   .visual p {
     margin: 0 0 8px; }
     .visual p.tagline {
+      color: #fff;
       line-height: 1.1;
       font-size: 2.6rem; }
   .visual .info {
+    color: #fff;
     display: block;
     font-size: 1.6rem;
     line-height: 1.5;
-    color: #494654;
     text-transform: uppercase; }
   .visual .text-block {
     padding: 90px 0; }
