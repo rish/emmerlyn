@@ -53,10 +53,15 @@ p {
     background: #21396b; }
 
 .logo {
-  float: left;
+  /* float: left; */
   margin: 0 0 0 15px;
-  width: 151px;
-  height: 41px; }
+  display: block;
+  position: absolute;
+}
+
+.logo img {
+  max-width: 50%;
+}
 
 .social-placeholder {
   padding: 9px 0 0;
@@ -85,8 +90,9 @@ p {
     padding: 7px;
     font-weight: bold;
     font-size: 1.6rem;
-    line-height: 22px;
-    letter-spacing: 0; }
+    line-height: 18px;
+    letter-spacing: 0;
+  }
 
 #nav {
   overflow: hidden;
@@ -166,6 +172,14 @@ p {
   -webkit-transform: rotate(-45deg);
   -ms-transform: rotate(-45deg);
   transform: rotate(-45deg); }
+
+#nav .btn-primary, .main #cta a.btn.btn-primary {
+    color: #fff;
+    background-color: #bf30ba;
+    border-width: 5px;
+    border-color: #e3e3e3;
+    line-height: 14px;
+  }
 
 .visual {
   min-height: 904px;
